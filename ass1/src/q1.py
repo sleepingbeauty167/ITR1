@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# Coral Malachi 314882853
 
 #import rospy, which is a python library fro ROS
 import rospy, sys
